@@ -2,3 +2,10 @@
 .vs
 .idea
 .vscode
+
+# Config
+config.properties
+
+# Dir
+build
+out
